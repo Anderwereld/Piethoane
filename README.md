@@ -1,0 +1,1 @@
+Deze code simuleert sensorwaardes, hij maakt gebruik van minimum en maximumwaardes en geeft aan als er dingen over de drempelwaarde zijn gegaan. Gemaakt voor assignment 1 NLD Control Systems
